@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711965937 source:c:\users\user\desktop\nina2\task1\main.cpp
+	<iostream>
+	<cstring>
+	<string.h>
+
